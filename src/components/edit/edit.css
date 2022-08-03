@@ -1,0 +1,30 @@
+.form{
+    text-align: center;
+    margin: 20px 0 0 0;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+input{
+    width: 80%;
+    font-size: large;
+    outline: none;
+    border: 1px solid rgb(213, 213, 213);
+    border-radius: 5px;
+    padding: 10px 10px;
+    box-shadow: 0 0 10px 5px rgb(232, 232, 232);
+    margin-bottom: 15px;
+}
+
+.editBtn{
+    background-color: #0074B7;
+    color: #fff;
+    padding: 15px 40px;
+    border: none;
+    border-radius: 10px;
+    font-size: x-large;
+    font-weight: bold;
+    cursor: pointer;
+}
